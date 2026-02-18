@@ -1,7 +1,9 @@
 # SleepChart
 This is the repository for sharing the R script for the GAM modeling between sleep duration and 23 biological aging clocks.
 
-<img src="sleepchart.png" width="400" height="400" alt="Description">
+<p align="center">
+  <img src="sleepchart.png" alt="Description" style="max-width:400px; width:80%; height:auto;">
+</p>
 
 ## Portal
 All results and GWAS summary statistics are publicly disseminated at our SleepChart portal: https://labs-laboratory.com/sleepchart/
