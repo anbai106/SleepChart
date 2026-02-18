@@ -2,7 +2,7 @@
 This is the repository for sharing the R script for the GAM modeling between sleep duration and 23 biological aging clocks.
 
 <p align="center">
-  <img src="sleepchart.png" alt="Description" style="max-width:400px; width:80%; height:auto;">
+  <img src="img/sleepchart.png" alt="Description" style="max-width:400px; width:80%; height:auto;">
 </p>
 
 ## Portal
