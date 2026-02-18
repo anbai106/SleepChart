@@ -5,8 +5,10 @@ This is the repository for sharing the R script for the GAM modeling between sle
   <img src="img/sleepchart.png" alt="Description" style="max-width:400px; width:80%; height:auto;">
 </p>
 
-## Portal
-All results and GWAS summary statistics are publicly disseminated at our SleepChart portal: https://labs-laboratory.com/sleepchart/
+## Portals
+**SLEEPCHART**: All results and sleep GWAS summary statistics are publicly disseminated at our SleepChart portal: https://labs-laboratory.com/sleepchart/
+
+**MEDICINE**: BAG GWAS summary statistics are publicly disseminated at our MEDICINE portal: https://labs-laboratory.com/medicine/
 
 ## Data
 Because our primary analyses used UK Biobank data, we cannot publicly share any individual-level information, including sleep duration measures and the 23 biological aging clocks. Instead, we provide an analysis script that users can adapt by supplying their own approved UK Biobank CSV/TSV inputs. Data sources beyond the UK Biobank may be obtained through researcher application processes to respective studies (e.g., the NIA-supported BLSA) or are publicly available for download (e.g., FinnGen and PGC GWAS summary statistics). All relevant information is detailed in the **Data Availability** and **Code Availability** sections of the manuscript.
