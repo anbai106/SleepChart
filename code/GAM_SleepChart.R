@@ -1,6 +1,6 @@
 # ==============================================================================
 # analysis:    Sleep duration vs. Biological Age Clocks (GAM)
-# paper:       Sleep chart of biological aging clocks in middle and late life (The MULTI Consortium et al., Nature, 2026)
+# paper:       Sleep chart of biological aging clocks in middle and late life (The MULTI Consortium et al., 2026)
 # author:      Junhao (Hao) Wen
 # maintainer:  Junhao (Hao) Wen
 # email:       junhao.wen89@gmail.com
