@@ -18,7 +18,7 @@ Because our primary analyses used UK Biobank data, we cannot publicly share any 
 
 > Wen, 2026. **Too little or too much sleep is linked with faster ageing throughout the body**. ***<ins>Nature Research Briefing (In Press)</ins>***, [Paper in PDF](#)
 
-> Heidi Ledford, 2026. **Sleep linked to slower ageing: huge study pinpoints the right amount**. ***<ins>Nature News</ins>***, [Paper in PDF](#)
+> Heidi Ledford, 2026. **Sleep linked to slower ageing: huge study pinpoints the right amount**. ***<ins>Nature News</ins>***, [Paper in PDF](https://www.nature.com/articles/d41586-026-01506-8)
 
 ## Related references for the 23 biological aging clocks
 > The MULTI Consortium et al., 2025. **MRI-based multi-organ clocks for healthy aging and disease assessment**. ***<ins>Nature Medicine</ins>***, [doi:10.1038/s41591-025-03999-8](https://www.nature.com/articles/s41591-025-03999-8)
