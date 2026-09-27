@@ -1,5 +1,5 @@
 # SleepChart
-This is the repository for sharing the R script for the GAM modeling between sleep duration and 23 biological aging clocks.
+This is the repository for sharing the R script for the GAM modeling of sleep duration and 23 biological aging clocks.
 
 <p align="center">
   <img src="img/sleepchart.png" alt="Description" style="max-width:400px; width:80%; height:auto;">
@@ -16,11 +16,13 @@ Because our primary analyses used UK Biobank data, we cannot publicly share any 
 ## Citing this work
 > The MULTI Consortium et al., 2026. **Sleep chart of biological aging clocks in middle and late life**. ***<ins>Nature</ins>***, [Paper in PDF](https://www.nature.com/articles/s41586-026-10524-5)
 
-> Wen, 2026. **Too little or too much sleep is linked with faster ageing throughout the body**. ***<ins>Nature Research Briefing (In Press)</ins>***, [Paper in PDF](#)
+> Wen, 2026. **Too little or too much sleep is linked with faster ageing throughout the body**. ***<ins>Nature Research Briefing (In Press)</ins>***, [Paper in PDF](https://www.nature.com/articles/d41586-026-01564-y)
 
 > Heidi Ledford, 2026. **Sleep linked to slower ageing: huge study pinpoints the right amount**. ***<ins>Nature News</ins>***, [Paper in PDF](https://www.nature.com/articles/d41586-026-01506-8)
 
 ## Related references for the 23 biological aging clocks
+> The MULTI Consortium et al., 2025. **Sex-specific biological aging clocks across organs and omics**. ***<ins>Nature Medicine</ins>***, [doi:10.1038/s41591-026-04662-6](https://www.nature.com/articles/s41591-026-04662-6)
+
 > The MULTI Consortium et al., 2025. **MRI-based multi-organ clocks for healthy aging and disease assessment**. ***<ins>Nature Medicine</ins>***, [doi:10.1038/s41591-025-03999-8](https://www.nature.com/articles/s41591-025-03999-8)
 
 > Wen, 2025. **Refining the generation, interpretation and application of multi-organ, multi-omics biological aging clocks**. ***<ins>Nature Aging</ins>***, [doi:10.1038/s43587-025-00928-9](https://www.nature.com/articles/s43587-025-00928-9)
